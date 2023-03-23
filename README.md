@@ -10,10 +10,13 @@ The model was trained on a dataset of usernames that were manually labeled as sp
 
 The model achieved an accuracy of 82% on the test set, and has been shown to generalize well to new data. However, as with any machine learning model, its performance may vary depending on the specific characteristics of the data.
 
-## Usage 🚀
 
-To use the model, you can simply load it into memory using the load_model function from the Keras library. You can then pass individual usernames to the model and obtain a prediction of the category to which they belong. We have also provided a tokenizer that can be used to preprocess the usernames before they are passed to the model.
+
+## Usage 🚀
+- https://huggingface.co/lokas/spam-usernames-classifier
 
 ## License 📝
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
+
