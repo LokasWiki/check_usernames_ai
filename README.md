@@ -1,6 +1,6 @@
 ## Username Classification Model 👤🔍
 
-This is a machine learning model that can classify usernames into two categories: spam and non-spam. The model is based on a deep learning architecture that uses a combination of embedding layers, LSTM layers, and fully connected layers. The input to the model is a string representing a username, and the output is a probability distribution over the two categories.
+This is a machine learning model that can classify usernames into two categories: spam and non-spam. The model is based on the bert-base-multilingual-cased model. The input to the model is a string representing a username, and the output is a probability distribution over the two categories.
 
 ## Dataset 📊
 
@@ -41,4 +41,3 @@ This example uses the dataset provided in the comment as an example. The usernam
 ## License 📝
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
-
